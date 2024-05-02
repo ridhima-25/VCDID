@@ -1,0 +1,28 @@
+[
+    {
+        "@context": [
+            "https://www.w3.org/ns/did/v1"
+        ],
+        "id": "did:web:ridhima-25.github.io:VCDID:5d25086d-ede5-48a2-b629-08514cb24f30",
+        "alsoKnownAs": [
+            "DVC",
+            "DVC.com"
+        ],
+        "service": [],
+        "verificationMethod": [
+            {
+                "id": "did:web:ridhima-25.github.io:VCDID:5d25086d-ede5-48a2-b629-08514cb24f30#key-0",
+                "type": "Ed25519VerificationKey2020",
+                "@context": "https://w3id.org/security/suites/ed25519-2020/v1",
+                "controller": "did:web:ridhima-25.github.io:VCDID:5d25086d-ede5-48a2-b629-08514cb24f30",
+                "publicKeyMultibase": "z6Mkk7aotGimDKNWkdqNsgTf3RCxHkbwXEkwpFUVT6xny2rK"
+            }
+        ],
+        "authentication": [
+            "did:web:ridhima-25.github.io:VCDID:5d25086d-ede5-48a2-b629-08514cb24f30#key-0"
+        ],
+        "assertionMethod": [
+            "did:web:ridhima-25.github.io:VCDID:5d25086d-ede5-48a2-b629-08514cb24f30#key-0"
+        ]
+    }
+]
